@@ -3,6 +3,7 @@ faiss-cpu
 python-dotenv
 sentence-transformers
 langchain
+langchain_community
+pypdf
 google-generativeai
 numpy
-PyMuPDF  # Required for PyPDFLoader
