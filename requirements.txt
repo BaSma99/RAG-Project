@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+python-dotenv
+sentence-transformers
+langchain
+google-generativeai
+numpy
+PyMuPDF  # Required for PyPDFLoader
