@@ -3,7 +3,8 @@ import streamlit as st
 import faiss
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
-from langchain.document_loaders import PyPDFLoader
+#from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader
 import google.generativeai as genai
 import tempfile
 import numpy as np
