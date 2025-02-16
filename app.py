@@ -9,7 +9,7 @@ import google.generativeai as genai
 import tempfile
 import numpy as np
 
-api = 'AIzaSyBg7SALI3hqjoCpjD_CKJiiR-vIpfxs24s' 
+api = 'Your API Key'
 
 if api:
     genai.configure(api_key=api)
